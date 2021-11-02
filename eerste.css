@@ -1,0 +1,21 @@
+p {
+    color: red;
+    font-size: 24px;
+    background-color: seagreen;
+}
+img {
+    border: orangered solid 2px;
+}
+#tableid {
+    border: 20px dashed;
+    background-color: orchid;
+}
+.class1 {
+    border: dashed 10px;
+}
+.class2 {
+    border: solid gold;
+}
+#paragraafid:hover {
+    color: blue;
+}
